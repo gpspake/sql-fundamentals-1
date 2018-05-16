@@ -7,7 +7,7 @@
 1.  First, make sure you have homebrew installed
 2.  Run `brew doctor` and address anything homebrew wants you to fix
 3.  Run `brew install postgresql`
-4.  Download and run [Postgres.app](https://postgresapp.com/) -- a free-standing database server that's super easy to install and start. Grab [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-macos/) and install it.
+4.  Download and run [Postgres.app](https://postgresapp.com/) -- a free-standing database server that's super easy to install and start. 
 5.  Grab [pgAdmin](https://www.pgadmin.org/download/pgadmin-4-macos/) and install it.
 
 ### Option 2 - Homebrew Only
